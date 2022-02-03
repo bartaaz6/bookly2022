@@ -1,0 +1,23 @@
+[
+    {
+        "userid": 1,
+        "email": "johnbrown1234@gmail.com",
+        "firstname": "John",
+        "lastname": "Brown",
+        "password": "abc"
+    },
+    {
+        "userid": 2,
+        "email": "jimgreen@gmail.com",
+        "firstname": "Jim",
+        "lastname": "Green",
+        "password": "abc"
+    },
+    {
+        "userid": 3,
+        "email": "joeblack7@gmail.com",
+        "firstname": "Joe",
+        "lastname": "Black",
+        "password": "abc"
+    }
+]
